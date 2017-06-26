@@ -1,9 +1,8 @@
 <?php
 /**
- * MyBB 1.8 English Language Pack
- * Copyright 2010 MyBB Group, All Rights Reserved
+ * MyBB 1.8 Bulgarian Pack
+ * Copyright 2017 MyBB Group, All Rights Reserved
  * 
- * $Id: english.php 5766 2012-03-28 11:08:55Z Tomm $
  */
 
 // The friendly name of the language
@@ -16,7 +15,7 @@ $langinfo['author'] = "NEOhidra, AndroidBG.com & EasyThe";
 $langinfo['website'] = "http://community.mybb.com/user-23021.html";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1811";
+$langinfo['version'] = "1812";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;

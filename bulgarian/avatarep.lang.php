@@ -28,7 +28,7 @@ $l['avatarep_user_error'] = ' Грешка';
 $l['avatarep_user_error_text'] = 'Трябва да влезете, за да видите това съдържание';
 $l['avatarep_user_alt'] = 'Аватарът на {1}';
 $l['avatarep_user_no_avatar'] = 'Без аватар';
-$l['avatarep_retrieving'] = 'Извличане на данни
+$l['avatarep_retrieving'] = 'Извличане на данни
 ';
 $l['avatarep_loading'] = 'Зареждане...';
 $l['avatarep_user_alt_forums'] = 'Последна публикация: {1}';
